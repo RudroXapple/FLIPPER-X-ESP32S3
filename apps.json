@@ -1,37 +1,9 @@
 [
-  {
-    "name": "Tetris",
-    "author": "Sor3nt Community",
-    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tetris.fap",
-    "category": "Games",
-    "size": 45000
-  },
-  {
-    "name": "Asteroids",
-    "author": "Sor3nt Community",
-    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/asteroids.fap",
-    "category": "Games",
-    "size": 35000
-  },
-  {
-    "name": "Snake",
-    "author": "Sor3nt Community",
-    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/snake20.fap",
-    "category": "Games",
-    "size": 40000
-  },
-  {
-    "name": "Blackjack",
-    "author": "Sor3nt Community",
-    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/blackjack.fap",
-    "category": "Games",
-    "size": 50000
-  },
-  {
-    "name": "Pong",
-    "author": "Sor3nt Community",
-    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/pong.fap",
-    "category": "Games",
-    "size": 30000
-  }
+  {"name":"Tetris","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tetris.fap","category":"Games","size":11784},
+  {"name":"Asteroids","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/asteroids.fap","category":"Games","size":19480},
+  {"name":"Snake","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/snake20.fap","category":"Games","size":18852},
+  {"name":"Pong","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_pong.fap","category":"Games","size":7552},
+  {"name":"Game 15","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/game15.fap","category":"Games","size":20620},
+  {"name":"Roulette","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/roulette.fap","category":"Games","size":18056},
+  {"name":"Texas Holdem","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/texas_holdem.fap","category":"Games","size":8752}
 ]
