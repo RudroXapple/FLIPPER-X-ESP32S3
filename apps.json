@@ -1,9 +1,1171 @@
 [
-  {"name":"Tetris","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/tetris.fap","category":"Games","size":11784},
-  {"name":"Asteroids","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/asteroids.fap","category":"Games","size":19480},
-  {"name":"Snake","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/snake20.fap","category":"Games","size":18852},
-  {"name":"Pong","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/flipper_pong.fap","category":"Games","size":7552},
-  {"name":"Game 15","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/game15.fap","category":"Games","size":20620},
-  {"name":"Roulette","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/roulette.fap","category":"Games","size":18056},
-  {"name":"Texas Holdem","author":"Sor3nt","url":"https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/texas_holdem.fap","category":"Games","size":8752}
+  {
+    "name": "4Inrow",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/4inrow.fap",
+    "category": "Misc",
+    "size": 11196
+  },
+  {
+    "name": "Analog Clock",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/analog_clock.fap",
+    "category": "Tools",
+    "size": 7924
+  },
+  {
+    "name": "Arddrivin",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/arddrivin.fap",
+    "category": "Games",
+    "size": 54172
+  },
+  {
+    "name": "Ardugolf",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/ardugolf.fap",
+    "category": "Games",
+    "size": 143592
+  },
+  {
+    "name": "Arkanoid",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/arkanoid.fap",
+    "category": "Games",
+    "size": 12000
+  },
+  {
+    "name": "Asteroids",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/asteroids.fap",
+    "category": "Games",
+    "size": 45852
+  },
+  {
+    "name": "Barcode App",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/barcode_app.fap",
+    "category": "Tools",
+    "size": 81644
+  },
+  {
+    "name": "Bettermouse",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/bettermouse.fap",
+    "category": "Misc",
+    "size": 31728
+  },
+  {
+    "name": "Blackjack",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/blackjack.fap",
+    "category": "Games",
+    "size": 64868
+  },
+  {
+    "name": "Blackjack Split",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/blackjack_split.fap",
+    "category": "Games",
+    "size": 67384
+  },
+  {
+    "name": "Ble Spam",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/ble_spam.fap",
+    "category": "Misc",
+    "size": 121256
+  },
+  {
+    "name": "Bomberduck",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/bomberduck.fap",
+    "category": "Games",
+    "size": 22528
+  },
+  {
+    "name": "Bounce",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/bounce.fap",
+    "category": "Games",
+    "size": 49180
+  },
+  {
+    "name": "Bpm Tapper",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/bpm_tapper.fap",
+    "category": "Tools",
+    "size": 8740
+  },
+  {
+    "name": "Bt Trigger",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/bt_trigger.fap",
+    "category": "Misc",
+    "size": 10144
+  },
+  {
+    "name": "C Book",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/c_book.fap",
+    "category": "Misc",
+    "size": 14416
+  },
+  {
+    "name": "Caesar Cipher",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/caesar_cipher.fap",
+    "category": "Misc",
+    "size": 5984
+  },
+  {
+    "name": "Calculator",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/calculator.fap",
+    "category": "Tools",
+    "size": 35568
+  },
+  {
+    "name": "Calendar",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/calendar.fap",
+    "category": "Misc",
+    "size": 18216
+  },
+  {
+    "name": "Can Tools",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/can_tools.fap",
+    "category": "Misc",
+    "size": 79988
+  },
+  {
+    "name": "Chess Clock",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/chess_clock.fap",
+    "category": "Games",
+    "size": 5956
+  },
+  {
+    "name": "Citybloxx",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/citybloxx.fap",
+    "category": "Games",
+    "size": 16112
+  },
+  {
+    "name": "Cntdown Tim",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/cntdown_tim.fap",
+    "category": "Misc",
+    "size": 12076
+  },
+  {
+    "name": "Combo Cracker",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/combo_cracker.fap",
+    "category": "Misc",
+    "size": 19616
+  },
+  {
+    "name": "Counter",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/counter.fap",
+    "category": "Tools",
+    "size": 6616
+  },
+  {
+    "name": "Crypto Dict",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/crypto_dict.fap",
+    "category": "Misc",
+    "size": 15720
+  },
+  {
+    "name": "Dcf77 Clock Spoof",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/dcf77_clock_spoof.fap",
+    "category": "Tools",
+    "size": 11672
+  },
+  {
+    "name": "Dice App",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/dice_app.fap",
+    "category": "Games",
+    "size": 29648
+  },
+  {
+    "name": "Doom",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/doom.fap",
+    "category": "Games",
+    "size": 76048
+  },
+  {
+    "name": "Doom2",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/doom2.fap",
+    "category": "Games",
+    "size": 132664
+  },
+  {
+    "name": "Drifter",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/drifter.fap",
+    "category": "Games",
+    "size": 12416
+  },
+  {
+    "name": "Droidbeacon",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/droidbeacon.fap",
+    "category": "Misc",
+    "size": 15112
+  },
+  {
+    "name": "Dvd Bounce",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/dvd_bounce.fap",
+    "category": "Games",
+    "size": 5536
+  },
+  {
+    "name": "Etch",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/etch.fap",
+    "category": "Misc",
+    "size": 8572
+  },
+  {
+    "name": "Executor Keychain",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/executor_keychain.fap",
+    "category": "Tools",
+    "size": 15524
+  },
+  {
+    "name": "Fighterjet",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/fighterjet.fap",
+    "category": "Games",
+    "size": 26628
+  },
+  {
+    "name": "Flappy Bird",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flappy_bird.fap",
+    "category": "Games",
+    "size": 9116
+  },
+  {
+    "name": "Flipagotchi",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipagotchi.fap",
+    "category": "Misc",
+    "size": 28960
+  },
+  {
+    "name": "Flipcraft",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipcraft.fap",
+    "category": "Games",
+    "size": 6944
+  },
+  {
+    "name": "Flipp Pomodoro",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipp_pomodoro.fap",
+    "category": "Tools",
+    "size": 54348
+  },
+  {
+    "name": "Flipper Geiger",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_geiger.fap",
+    "category": "Misc",
+    "size": 13836
+  },
+  {
+    "name": "Flipper Hero",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_hero.fap",
+    "category": "Misc",
+    "size": 134596
+  },
+  {
+    "name": "Flipper Letterbeacon",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_letterbeacon.fap",
+    "category": "Misc",
+    "size": 14272
+  },
+  {
+    "name": "Flipper Pong",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_pong.fap",
+    "category": "Games",
+    "size": 7552
+  },
+  {
+    "name": "Flipper Xremote",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_xremote.fap",
+    "category": "Misc",
+    "size": 168352
+  },
+  {
+    "name": "Fmf To Sub",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/fmf_to_sub.fap",
+    "category": "Sub-GHz",
+    "size": 31772
+  },
+  {
+    "name": "Fordradiocode",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/fordradiocode.fap",
+    "category": "Sub-GHz",
+    "size": 8916
+  },
+  {
+    "name": "Furious Birds",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/furious_birds.fap",
+    "category": "Games",
+    "size": 32116
+  },
+  {
+    "name": "Game15",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/game15.fap",
+    "category": "Games",
+    "size": 20620
+  },
+  {
+    "name": "Game 2048",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/game_2048.fap",
+    "category": "Games",
+    "size": 21204
+  },
+  {
+    "name": "Game Vexed",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/game_vexed.fap",
+    "category": "Games",
+    "size": 126432
+  },
+  {
+    "name": "Genie Record",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/genie_record.fap",
+    "category": "Misc",
+    "size": 79992
+  },
+  {
+    "name": "Gpio 7Segment Output",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/gpio_7segment_output.fap",
+    "category": "Misc",
+    "size": 9364
+  },
+  {
+    "name": "Gpio Reader",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/gpio_reader.fap",
+    "category": "Misc",
+    "size": 7700
+  },
+  {
+    "name": "Gpio Sentry Safe",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/gpio_sentry_safe.fap",
+    "category": "Misc",
+    "size": 11072
+  },
+  {
+    "name": "Gpio Timelapse",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/gpio_timelapse.fap",
+    "category": "Misc",
+    "size": 19288
+  },
+  {
+    "name": "Hangman",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/hangman.fap",
+    "category": "Games",
+    "size": 29840
+  },
+  {
+    "name": "Heap Defence",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/heap_defence.fap",
+    "category": "Misc",
+    "size": 33984
+  },
+  {
+    "name": "Hex Editor",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/hex_editor.fap",
+    "category": "Tools",
+    "size": 11216
+  },
+  {
+    "name": "Hex Viewer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/hex_viewer.fap",
+    "category": "Tools",
+    "size": 38804
+  },
+  {
+    "name": "Iconedit",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/iconedit.fap",
+    "category": "Tools",
+    "size": 166324
+  },
+  {
+    "name": "Iso15693 Nfc Writer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/iso15693_nfc_writer.fap",
+    "category": "Sub-GHz",
+    "size": 36392
+  },
+  {
+    "name": "Jetpack Joyride",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/jetpack_joyride.fap",
+    "category": "Games",
+    "size": 30412
+  },
+  {
+    "name": "Key Copier",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/key_copier.fap",
+    "category": "Tools",
+    "size": 34204
+  },
+  {
+    "name": "Key Generator",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/key_generator.fap",
+    "category": "Tools",
+    "size": 14120
+  },
+  {
+    "name": "Mandelbrotset",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mandelbrotset.fap",
+    "category": "Misc",
+    "size": 10204
+  },
+  {
+    "name": "Matagotchi",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/matagotchi.fap",
+    "category": "Misc",
+    "size": 78868
+  },
+  {
+    "name": "Memsic 2125",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/memsic_2125.fap",
+    "category": "Misc",
+    "size": 6472
+  },
+  {
+    "name": "Metronome",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/metronome.fap",
+    "category": "Tools",
+    "size": 14704
+  },
+  {
+    "name": "Mfc Editor",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mfc_editor.fap",
+    "category": "Misc",
+    "size": 43348
+  },
+  {
+    "name": "Mfp Reader",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mfp_reader.fap",
+    "category": "Misc",
+    "size": 128196
+  },
+  {
+    "name": "Mh Z19",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mh_z19.fap",
+    "category": "Misc",
+    "size": 11976
+  },
+  {
+    "name": "Microtd",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/microtd.fap",
+    "category": "Misc",
+    "size": 131008
+  },
+  {
+    "name": "Mifare Fuzzer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mifare_fuzzer.fap",
+    "category": "Misc",
+    "size": 32228
+  },
+  {
+    "name": "Minesweeper Redux",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/minesweeper_redux.fap",
+    "category": "Games",
+    "size": 105820
+  },
+  {
+    "name": "Montyhall",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/montyhall.fap",
+    "category": "Games",
+    "size": 13672
+  },
+  {
+    "name": "Morse Code",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/morse_code.fap",
+    "category": "Sub-GHz",
+    "size": 14448
+  },
+  {
+    "name": "Morse Master",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/morse_master.fap",
+    "category": "Sub-GHz",
+    "size": 31588
+  },
+  {
+    "name": "Morse Trainer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/morse_trainer.fap",
+    "category": "Sub-GHz",
+    "size": 65532
+  },
+  {
+    "name": "Multi Counter",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/multi_counter.fap",
+    "category": "Tools",
+    "size": 12860
+  },
+  {
+    "name": "Music Beeper",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/music_beeper.fap",
+    "category": "Misc",
+    "size": 27816
+  },
+  {
+    "name": "Music Player",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/music_player.fap",
+    "category": "Misc",
+    "size": 34200
+  },
+  {
+    "name": "Net Calculator",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/net_calculator.fap",
+    "category": "Tools",
+    "size": 13084
+  },
+  {
+    "name": "Nfc Canary",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_canary.fap",
+    "category": "Sub-GHz",
+    "size": 42260
+  },
+  {
+    "name": "Nfc Magic",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_magic.fap",
+    "category": "Sub-GHz",
+    "size": 234856
+  },
+  {
+    "name": "Nfc Rfid Detector",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_rfid_detector.fap",
+    "category": "Sub-GHz",
+    "size": 14184
+  },
+  {
+    "name": "Nfc Stock Manager",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_stock_manager.fap",
+    "category": "Sub-GHz",
+    "size": 47052
+  },
+  {
+    "name": "Nickname Generator",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nickname_generator.fap",
+    "category": "Tools",
+    "size": 15876
+  },
+  {
+    "name": "Nrf24Tool",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nrf24tool.fap",
+    "category": "Misc",
+    "size": 136820
+  },
+  {
+    "name": "Nupogodi",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nupogodi.fap",
+    "category": "Misc",
+    "size": 29252
+  },
+  {
+    "name": "Ocarina",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/ocarina.fap",
+    "category": "Misc",
+    "size": 12776
+  },
+  {
+    "name": "Oregon Trail",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/oregon_trail.fap",
+    "category": "Misc",
+    "size": 88804
+  },
+  {
+    "name": "Paint",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/paint.fap",
+    "category": "Tools",
+    "size": 8040
+  },
+  {
+    "name": "Paper Plane",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/paper_plane.fap",
+    "category": "Misc",
+    "size": 13080
+  },
+  {
+    "name": "Passgen",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/passgen.fap",
+    "category": "Tools",
+    "size": 10292
+  },
+  {
+    "name": "Pinball0",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/pinball0.fap",
+    "category": "Games",
+    "size": 15336
+  },
+  {
+    "name": "Pocketlab",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/pocketlab.fap",
+    "category": "Misc",
+    "size": 213808
+  },
+  {
+    "name": "Pocsag Pager",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/pocsag_pager.fap",
+    "category": "Sub-GHz",
+    "size": 88392
+  },
+  {
+    "name": "Pomodoro Timer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/pomodoro_timer.fap",
+    "category": "Tools",
+    "size": 19560
+  },
+  {
+    "name": "Princeofarabia",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/princeofarabia.fap",
+    "category": "Misc",
+    "size": 215732
+  },
+  {
+    "name": "Programmercalc",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/programmercalc.fap",
+    "category": "Tools",
+    "size": 25140
+  },
+  {
+    "name": "Proto Pirate",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/proto_pirate.fap",
+    "category": "Sub-GHz",
+    "size": 212116
+  },
+  {
+    "name": "Qrcode",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/qrcode.fap",
+    "category": "Tools",
+    "size": 34416
+  },
+  {
+    "name": "Racso Sokoban",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/racso_sokoban.fap",
+    "category": "Misc",
+    "size": 59076
+  },
+  {
+    "name": "Racso Ultimate Tic Tac Toe",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/racso_ultimate_tic_tac_toe.fap",
+    "category": "Misc",
+    "size": 34836
+  },
+  {
+    "name": "Racso Zero",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/racso_zero.fap",
+    "category": "Misc",
+    "size": 54572
+  },
+  {
+    "name": "Rad Sens",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/rad_sens.fap",
+    "category": "Misc",
+    "size": 17328
+  },
+  {
+    "name": "Rcwl 0516",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/rcwl_0516.fap",
+    "category": "Misc",
+    "size": 5604
+  },
+  {
+    "name": "Reaction",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/reaction.fap",
+    "category": "Misc",
+    "size": 6408
+  },
+  {
+    "name": "Reverse Shell",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/reverse_shell.fap",
+    "category": "Misc",
+    "size": 26988
+  },
+  {
+    "name": "Reversi",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/reversi.fap",
+    "category": "Games",
+    "size": 17144
+  },
+  {
+    "name": "Rfid2 Reader",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/rfid2_reader.fap",
+    "category": "Sub-GHz",
+    "size": 14412
+  },
+  {
+    "name": "Rfid Metal Detector",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/rfid_metal_detector.fap",
+    "category": "Sub-GHz",
+    "size": 9636
+  },
+  {
+    "name": "Rolling Flaws",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/rolling_flaws.fap",
+    "category": "Misc",
+    "size": 54200
+  },
+  {
+    "name": "Roulette",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/roulette.fap",
+    "category": "Games",
+    "size": 18056
+  },
+  {
+    "name": "Rubiks Cube Scrambler",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/rubiks_cube_scrambler.fap",
+    "category": "Misc",
+    "size": 8352
+  },
+  {
+    "name": "Schip",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/schip.fap",
+    "category": "Misc",
+    "size": 19688
+  },
+  {
+    "name": "Sd Info",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/sd_info.fap",
+    "category": "Misc",
+    "size": 16196
+  },
+  {
+    "name": "Secret Toggle",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/secret_toggle.fap",
+    "category": "Misc",
+    "size": 9028
+  },
+  {
+    "name": "Segment Clock",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/segment_clock.fap",
+    "category": "Tools",
+    "size": 19588
+  },
+  {
+    "name": "Shapshup",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/shapshup.fap",
+    "category": "Misc",
+    "size": 48400
+  },
+  {
+    "name": "Simon Says",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/simon_says.fap",
+    "category": "Misc",
+    "size": 28212
+  },
+  {
+    "name": "Slotmachine",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/slotmachine.fap",
+    "category": "Misc",
+    "size": 15140
+  },
+  {
+    "name": "Snake20",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/snake20.fap",
+    "category": "Games",
+    "size": 18852
+  },
+  {
+    "name": "Spaceimpactii985E",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/spaceimpactii985e.fap",
+    "category": "Games",
+    "size": 61796
+  },
+  {
+    "name": "Specter",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/specter.fap",
+    "category": "Sub-GHz",
+    "size": 107496
+  },
+  {
+    "name": "Stack Attack",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/stack_attack.fap",
+    "category": "Misc",
+    "size": 47132
+  },
+  {
+    "name": "Stepcounter",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/stepcounter.fap",
+    "category": "Tools",
+    "size": 5480
+  },
+  {
+    "name": "Sub Analyzer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/sub_analyzer.fap",
+    "category": "Sub-GHz",
+    "size": 25756
+  },
+  {
+    "name": "Sub Dup Finder",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/sub_dup_finder.fap",
+    "category": "Sub-GHz",
+    "size": 15208
+  },
+  {
+    "name": "Subghz Playlist",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/subghz_playlist.fap",
+    "category": "Sub-GHz",
+    "size": 57724
+  },
+  {
+    "name": "Subghz Playlist Creator",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/subghz_playlist_creator.fap",
+    "category": "Sub-GHz",
+    "size": 33532
+  },
+  {
+    "name": "Subghz Raw Edit",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/subghz_raw_edit.fap",
+    "category": "Sub-GHz",
+    "size": 62048
+  },
+  {
+    "name": "Subghz Scheduler",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/subghz_scheduler.fap",
+    "category": "Sub-GHz",
+    "size": 62836
+  },
+  {
+    "name": "Sudoku",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/sudoku.fap",
+    "category": "Games",
+    "size": 17160
+  },
+  {
+    "name": "T5577 Writer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/t5577_writer.fap",
+    "category": "Misc",
+    "size": 27176
+  },
+  {
+    "name": "T Embed Snake",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/t_embed_snake.fap",
+    "category": "Games",
+    "size": 10976
+  },
+  {
+    "name": "T Rex Runner",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/t_rex_runner.fap",
+    "category": "Misc",
+    "size": 8516
+  },
+  {
+    "name": "Tagtinker",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tagtinker.fap",
+    "category": "Misc",
+    "size": 139636
+  },
+  {
+    "name": "Tamagotchi P1",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tamagotchi_p1.fap",
+    "category": "Misc",
+    "size": 96240
+  },
+  {
+    "name": "Tarot",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tarot.fap",
+    "category": "Misc",
+    "size": 37396
+  },
+  {
+    "name": "Tetris",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tetris.fap",
+    "category": "Games",
+    "size": 11784
+  },
+  {
+    "name": "Texas Holdem",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/texas_holdem.fap",
+    "category": "Misc",
+    "size": 8752
+  },
+  {
+    "name": "Text Viewer",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/text_viewer.fap",
+    "category": "Tools",
+    "size": 9504
+  },
+  {
+    "name": "Theme Manager",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/theme_manager.fap",
+    "category": "Tools",
+    "size": 54080
+  },
+  {
+    "name": "Tictactoe",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tictactoe.fap",
+    "category": "Misc",
+    "size": 11748
+  },
+  {
+    "name": "Tone Gen",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tone_gen.fap",
+    "category": "Tools",
+    "size": 25236
+  },
+  {
+    "name": "Tpms",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tpms.fap",
+    "category": "Sub-GHz",
+    "size": 96064
+  },
+  {
+    "name": "Tpms Bridge",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tpms_bridge.fap",
+    "category": "Sub-GHz",
+    "size": 89156
+  },
+  {
+    "name": "Trackerflipx",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/trackerflipx.fap",
+    "category": "Misc",
+    "size": 70784
+  },
+  {
+    "name": "Tuning Fork",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tuning_fork.fap",
+    "category": "Misc",
+    "size": 50752
+  },
+  {
+    "name": "Uk Mbirth Sonicare",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/uk_mbirth_sonicare.fap",
+    "category": "Misc",
+    "size": 27052
+  },
+  {
+    "name": "Usb Ccb",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/usb_ccb.fap",
+    "category": "Misc",
+    "size": 34148
+  },
+  {
+    "name": "Usb Hid Autofire",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/usb_hid_autofire.fap",
+    "category": "Misc",
+    "size": 28104
+  },
+  {
+    "name": "Vario",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/vario.fap",
+    "category": "Games",
+    "size": 27476
+  },
+  {
+    "name": "Vgm Air Mouse",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/vgm_air_mouse.fap",
+    "category": "Misc",
+    "size": 34344
+  },
+  {
+    "name": "Videopoker",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/videopoker.fap",
+    "category": "Misc",
+    "size": 20600
+  },
+  {
+    "name": "Vin Decoder",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/vin_decoder.fap",
+    "category": "Misc",
+    "size": 60540
+  },
+  {
+    "name": "Vk Thermo",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/vk_thermo.fap",
+    "category": "Misc",
+    "size": 118648
+  },
+  {
+    "name": "Wave",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/wave.fap",
+    "category": "Misc",
+    "size": 51024
+  },
+  {
+    "name": "Weather Station",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/weather_station.fap",
+    "category": "Sub-GHz",
+    "size": 214660
+  },
+  {
+    "name": "Wifi Map",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/wifi_map.fap",
+    "category": "Misc",
+    "size": 11388
+  },
+  {
+    "name": "Wire Tester",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/wire_tester.fap",
+    "category": "Misc",
+    "size": 6364
+  },
+  {
+    "name": "Wmbuster",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/wmbuster.fap",
+    "category": "Sub-GHz",
+    "size": 164824
+  },
+  {
+    "name": "Xiaomi Filter Reset",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/xiaomi_filter_reset.fap",
+    "category": "Misc",
+    "size": 25776
+  },
+  {
+    "name": "Yatzee",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/yatzee.fap",
+    "category": "Games",
+    "size": 17792
+  },
+  {
+    "name": "Zombiez",
+    "author": "Community",
+    "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/zombiez.fap",
+    "category": "Games",
+    "size": 10056
+  }
 ]
