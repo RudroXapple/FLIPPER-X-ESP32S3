@@ -311,7 +311,7 @@
     "name": "Flipper Xremote",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/flipper_xremote.fap",
-    "category": "Misc",
+    "category": "Infrared",
     "size": 168352
   },
   {
@@ -430,7 +430,7 @@
     "name": "Iso15693 Nfc Writer",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/iso15693_nfc_writer.fap",
-    "category": "Sub-GHz",
+    "category": "NFC",
     "size": 36392
   },
   {
@@ -479,21 +479,21 @@
     "name": "Metronome",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/metronome.fap",
-    "category": "Tools",
+    "category": "Media",
     "size": 14704
   },
   {
     "name": "Mfc Editor",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mfc_editor.fap",
-    "category": "Misc",
+    "category": "NFC",
     "size": 43348
   },
   {
     "name": "Mfp Reader",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mfp_reader.fap",
-    "category": "Misc",
+    "category": "NFC",
     "size": 128196
   },
   {
@@ -514,7 +514,7 @@
     "name": "Mifare Fuzzer",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/mifare_fuzzer.fap",
-    "category": "Misc",
+    "category": "NFC",
     "size": 32228
   },
   {
@@ -563,14 +563,14 @@
     "name": "Music Beeper",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/music_beeper.fap",
-    "category": "Misc",
+    "category": "Media",
     "size": 27816
   },
   {
     "name": "Music Player",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/music_player.fap",
-    "category": "Misc",
+    "category": "Media",
     "size": 34200
   },
   {
@@ -584,28 +584,28 @@
     "name": "Nfc Canary",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_canary.fap",
-    "category": "Sub-GHz",
+    "category": "NFC",
     "size": 42260
   },
   {
     "name": "Nfc Magic",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_magic.fap",
-    "category": "Sub-GHz",
+    "category": "NFC",
     "size": 234856
   },
   {
     "name": "Nfc Rfid Detector",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_rfid_detector.fap",
-    "category": "Sub-GHz",
+    "category": "NFC",
     "size": 14184
   },
   {
     "name": "Nfc Stock Manager",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/nfc_stock_manager.fap",
-    "category": "Sub-GHz",
+    "category": "NFC",
     "size": 47052
   },
   {
@@ -1025,7 +1025,7 @@
     "name": "Tone Gen",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/tone_gen.fap",
-    "category": "Tools",
+    "category": "Media",
     "size": 25236
   },
   {
@@ -1088,7 +1088,7 @@
     "name": "Vgm Air Mouse",
     "author": "Community",
     "url": "https://raw.githubusercontent.com/RudroXapple/FLIPPER-X-ESP32S3/main/faps/vgm_air_mouse.fap",
-    "category": "Misc",
+    "category": "Media",
     "size": 34344
   },
   {
